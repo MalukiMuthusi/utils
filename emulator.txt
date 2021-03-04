@@ -1,0 +1,10 @@
+How to start an emulator from the command line.
+==============================================
+
+  emulator -avd {avd-name} [options]
+        or
+  emulator @avd-name [options]
+
+To list avd names
+=================
+  emulator -list-avds
