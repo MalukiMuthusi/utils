@@ -5,6 +5,10 @@ How to start an emulator from the command line.
         or
   emulator @avd-name [options]
 
+example
+-------
+  emulator @Pixel_2_API_30
+
 To list avd names
 =================
   emulator -list-avds
