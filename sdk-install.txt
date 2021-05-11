@@ -1,0 +1,9 @@
+add-ons;addon-google_apis-google-24
+build-tools;30.0.3
+cmake;3.18.1
+cmdline-tools;latest
+platform-tools
+sources;android-30
+system-images;android-30;google_apis_playstore;x86_64
+ndk-bundle
+platforms;android-30
