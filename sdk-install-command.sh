@@ -1,0 +1,1 @@
+sdkmanager --package_file=opensource\utils\sdk-install.txt
