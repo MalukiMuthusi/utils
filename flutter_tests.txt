@@ -1,7 +1,0 @@
-To run flutter tests
-====================
-   flutter test --coverage tests/
-
-To generate coverage report
-===========================
-   genhtml -o coverage coverage/lcov.info
