@@ -16,3 +16,11 @@ You can launch the shell in the phone by running
    `adb connect PHONE_IP:PORT` PHONE_IP is the local ip address; PORT is the port number you set above.
 
 Note: The phone and the PC must be connected to the same local network.
+
+## To copy files from the phone to computer
+
+`adb pull path_to_file path_to_store_the_file`
+
+## To copy files from computer to phone
+
+`adb push path_to_file path_to_store_the_file`
